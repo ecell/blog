@@ -1,3 +1,4 @@
 baseURL = "http://ecell1.gitlab.io/blog/"
-languageCode = "en-us"
+languageCode = "ja"
 title = "E-Cell blog"
+theme = "axiom"
