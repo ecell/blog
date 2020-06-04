@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on E-Cell blog</title><link>http://blog.e-cell.org/posts/</link><description>Recent content in Posts on E-Cell blog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Fri, 15 Sep 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://blog.e-cell.org/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>E-Cell mini-sprint 2017 を慶大SFCおよび湯河原温泉で開催しました</title><link>http://blog.e-cell.org/posts/ecell-mini-sprint-2017/</link><pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate><guid>http://blog.e-cell.org/posts/ecell-mini-sprint-2017/</guid><description>2017年9月15日（金）から9月19日（火）まで、E-Cell mini-sprint 2017 を開催しました。今回は、慶應義塾大学のE-Cellプロジェクトによる開発合宿として実施したので「mini」です。
+9月15日（金）から9月17日（日）朝までは5名が慶大SFCで活動し、17日午前に台風18号が接近する中、湯河原温泉に移動。「おんやど惠」で後半に突入しました。 後半は、東京大学先端科学技術研究センターの谷内江望さん、 理化学研究所統合生命医科学研究センターの柚木克之さんを迎え、学生も増えて10名で活動、 18日からはE-Cellプロジェクト創始者の冨田勝さんも加わってのラストスパートとなりました。
+今回は、開催規模が小さいこともあり、全国的に増加中の宿泊施設の「開発合宿プラン」を利用してみました。湯河原は慶大ＳＦＣからのアクセスもよく、台風接近でやや荒天でしたがスムースに移動できました。
+開発会場は温泉旅館「おんやど惠」。湯河原駅から千歳川沿いにバスで10分ほど山側に入っ たところにあり、ほどよく隔離されていて開発に集中するにはいい環境でした。作業する会議室は10人で作業するには充分な広さで、24時間利用可能なのは ありがたい対応でした。これまで利用した研修施設などでは夜間は施錠されて使えない場合がかなりありました。あと、この宿は大浴場に夜通し入浴可能なの で、宵っ張りの多いチームにはうってつけで、2泊3日の47時間、会議室が無人になったのは合わせて10時間足らずでした。
+最終日のお昼に合宿を終了し、宿から湯河原をさらに奥に進んだ山中にあるフレンチキュイジーヌ「エルルカン・ビス」でランチをいただいて打ち上げました。</description></item><item><title>E-Cell sprint 2016 を慶應SFCで開催しました</title><link>http://blog.e-cell.org/posts/ecell-sprint-2016/</link><pubDate>Mon, 05 Sep 2016 00:00:00 +0000</pubDate><guid>http://blog.e-cell.org/posts/ecell-sprint-2016/</guid><description>E-Cell projectは，2016年8月29日~9月2日にE-Cell sprint 2016を開催しました (慶應義塾大学と理化学研究所の共催) ．
+E-Cell sprintはシステムバイオロジー全般に係わるプロジェクトを募り，ハッカソン形式で開発を行う合宿です．
+ハッカソンは E-Cell projectの一環として開催されるもので， 参加者にとっては知識を深め，技術的なスキルを向上させることができるとともに，システムズバイオロジーに興味を持つ学生・研究者とのネットワークづくりにも役立つものです．
+今年度よりワークショップとハッカソンを統合し初日には以前E-Cellに関わっていた方々を外部からお招きして最近の研究動向についてお話していただきました (題目等はE-Cell Workshop &amp;amp; Sprint 2016 参加者募集のお知らせの「スケジュール&amp;gt;E-Cell Workshop (8月29日)」をご参照ください) ．
+ハッカソンの成果についてはGitHubのsprint2016リポジトリのwikiをご参照ください．</description></item><item><title>E-Cell Workshop &amp; Sprint 2016 参加者募集のお知らせ</title><link>http://blog.e-cell.org/posts/ecell-workshop-sprint-2016/</link><pubDate>Fri, 29 Jul 2016 00:00:00 +0000</pubDate><guid>http://blog.e-cell.org/posts/ecell-workshop-sprint-2016/</guid><description>今年もE-Cell WorkshopとE-Cell Sprintを開催いたします！
+E-Cell Sprintはシステムバイオロジー全般に係わるプロジェクトを募り、ハッカソン形式で開発を行う合宿です。
+例年はE-Cell Workshopを春に、E-Cell Sprintを夏に行ってまいりましたが、今年はこれらをまとめて行うことにしました。 5日間の期間のうち初日をWorkshopとして以前E-Cellに関わっていた方々を外部からお招きして最近の研究動向についてお話していただきます。 後4日は例年通りの開発合宿Sprintを開催いたします。
+Workshopのみの参加も可能ですので皆さまお気軽にご参加ください。
+開催日時 8月29日(月) ~ 9月2日(金)
+E-Cell Workshop 2016は8月29日(月)のみ、E-Cell Sprint 2016は8月30日(火) ~ 9月2日(金)。初日のWorkshopのみ参加も可能です。
+場所 慶應義塾大学 湘南藤沢キャンパス 湘南台駅西口から神奈川中央交通バスで慶応中高等部前もしくは慶応大学本館前で下車
+E-Cell Workshop: τ12教室、E-Cell Sprint: 未来創造塾 滞在棟1ほか
+参加費 一般・学生 : 無料
+参加費は無料ですが、交通費・食費・宿泊費等は実費の負担をお願いいたします。ゲストハウスに宿泊される方は当日受付で現金にて徴収いたします。
+学生として参加する方は受付で学生証を提示してください。学生の方の宿泊費の補助については下記連絡先まで直接ご相談下さい。
+定員 30名（先着順）
+参加登録 本リンクのフォームに所定の事項を入力の上、申し込んでください。
+担当者より登録完了の連絡があった時点で登録が完了したものとします(自動返信)。
+Sprintに参加される場合は、プロジェクトタイトルの入力欄がありますので会期中に実施・完成するプロジェクトの概要を簡潔に表現してください(チューターに相談が必要な方は、その旨記入してください)。 担当者より登録完了の連絡があった時点で登録が完了したものとします(自動返信)。
+スケジュール E-Cell Workshop (8月29日)
+8月29日
+12:30 – 13:00 参加受付
+13:00 – 13:10 開会
+13:10 – 13:30 講演 海津一成博士 (理化学研究所生命システム研究センター)
+「E-Cell Systemの開発と今後」</description></item><item><title>E-Cell Sprint 2015を日吉で行いました</title><link>http://blog.e-cell.org/posts/ecell-sprint-2015-report/</link><pubDate>Mon, 21 Sep 2015 08:00:00 +0000</pubDate><guid>http://blog.e-cell.org/posts/ecell-sprint-2015-report/</guid><description>今年度のE-Cell Sprintを8月29日~9月1日の4日間、慶應義塾大学日吉キャンパスで開催しました。 E-Cell SprintはSystems biology全般に係わるprojectを募り、hackathon形式で開発を行う合宿です。 今年度は下記のような成果が得られました。E-Cell Sprintは来年も開催する予定ですのでご興味を持たれた方はsprint@e-cell.orgまでご連絡ください。
+加藤 傑 京都大学 Cellular Potts Modelの簡易実装 Cellular Potts Modelを２次元平面上で簡易的にC++を使って実装しました。 西田 圭吾 大阪大学 一分子専用フィルタの機械学習による獲得 低毒性一分子感度一細胞蛍光イメージングを行うことを目的として、低S/N像から高S/N像を再現するため、機械学習技術の一つである畳み込みニューラルネットワークを細胞イメージングに合うように実装した。 渡部匡己 理研 凝集モデルの構築とそのPALMイメージング 現在、PALMイメージングを使って、細胞性粘菌のcAR1受容体の極性や局在を計る課題に取り組んでいる。PALMを使った一分子計測には、一分子の蛍光特性や選択効率を数値化するためのカリブレーションを欠かすことはできない。今回のE-CELL Sprintでは、詳細な一分子のカリブレーションを行うための蛍光分子の凝集モデルを構築して、そのPALMイメージングのシミュレーションを実装をした。 熊上 尚樹，神野祥子，瀧口真央，田中雄一郎，脇田舞子（50音順） 慶應義塾大学 HuVEC modelのVisual BasicからMATLABへの書き換え HuVEC modelについて、細胞膜上のイオンチャネルや交換体タンパク・収縮機構をそれぞれ分担し、MATLABへの書き換え作業を行った。 Satya Arjunan RIKEN QBiC Particle simulation model of multiple membrane binding states of PTEN I have successfully implemented full particle simulation model of PTEN which recapitulates its multiple membrane binding states.</description></item><item><title>E-Cell Sprint 2015</title><link>http://blog.e-cell.org/posts/ecell-sprint-2015/</link><pubDate>Mon, 29 Jun 2015 08:00:00 +0000</pubDate><guid>http://blog.e-cell.org/posts/ecell-sprint-2015/</guid><description>E-Cell Sprint 2015
+開催日時：
+8月29日（土）11:00開始
+9月1日（火）16:00終了
+場所：
+慶應義塾大学日吉キャンパス第4校舎独立館2階D204教室
+（宿泊施設として慶應義塾日吉キャンパス協生館をご使用いただけます．）
+http://www.hc.keio.ac.jp/ja/hiyoshi_campus/guide/index.html http://www.kcc.keio.ac.jp
+参加費：
+一般・学生（含む大学院生）：無料
+参加費は無料ですが、交通費・食費・宿泊費等は実費の負担をお願いいたします。協生館に宿泊される方は当日受付で現金にて徴収いたします。
+学生として参加する方は受付で学生証を提示してください。学生の方の宿泊費の補助については下記連絡先まで直接ご相談下さい。
+定員：30名（先着順）
+ミッションと日程：
+参加者は、開始日前日（8/28）までに期間中に実施するプロジェクトの詳細を決定の上、所定のフォームから登録していただきます（詳細は、参加者向けに ご案内します）。 期間中に取り組むプロジェクトの計画について、E-Cell Sprintのチューターが相談に応じます。 期間中はシステム生物学（細胞シミュレーションを中心とし、ネットワーク生物学、計算論的神経科学やその応用を含む周辺分野一般）に関わるひとつ以上の成果物をつくりあげます。 主にシステム生物学研究に用いるプログラムを想定していますが、他のアイディアも歓迎しますので、会期前に相談してください。
+参加登録（7月17日まで）：
+以下のURLに所定の事項を入力の上、申し込んでください。
+プロジェクトタイトルの入力欄がありますので、Sprintで実施・完成するプロジェクトの概要を簡潔に表現してください。（チューターに相談が必要な方は、その旨記入してください。）
+https://goo.gl/9xYF6E 担当者より登録完了の連絡があった時点で登録が完了したものとします。
+登録締切は7月17日（金）です。
+プロジェクトの内容は、4日間で独立して取り組み、完成出来るものであれば、各自のレベルに合わせたもので構いません。極端に言えば、「この教科書のサンプルを完成する」でOKです。
+スケジュール：
+–
+9:00-12:00 13:00-19:00 19:00-21:00 8月29日 Registration (~11:00) Hack Discussion 8月30日 Hack Hack Hack / Discussion 8月31日 Hack Hack Hack / Excursion 9月1日 Hack Wrap-up (~16:00) 問い合わせ・連絡先：</description></item><item><title>E-Cell sprint 2014を葉山で行いました</title><link>http://blog.e-cell.org/posts/ecell-sprint-2014/</link><pubDate>Fri, 03 Oct 2014 07:00:00 +0000</pubDate><guid>http://blog.e-cell.org/posts/ecell-sprint-2014/</guid><description>今年度のE-Cell sprintを8月31日~9月4日の5日間、神奈川県 葉山 IPC生産性国際交流センターで開催しました。 E-Cell sprintはSystems biology全般に係わるprojectを募り、hackathon形式で開発を行う合宿です。 今年度は参加者がさらに増え(約40名余)、全脳アーキテクチャ関連のprojectも加わり下記のような成果が得られました。 E-Cell sprintは来年も開催する予定ですのでこれらにご興味を持たれた方は@ktakahashi74にお声がけください。
+E-Cell4関連 加藤傑 京大 Ecell4 LatticeへのStructure実装 Ecell4に移植したSpatiocyteであるLatticeに細胞膜などの構造体を配置するための下準備として球面上に粒子を配置できるよう拡張 西田孝三 理研 E-Cell4 rule-base modelの可視化 E-Cell4のrule-base modelの基本構成単位となるSpeciesをCytoscape.jsを用いcontact mapとして可視化 海津一成 理研 空間的GillespieアルゴリズムのE-Cell4上への実装 格子と空間均一の中間にあたる空間的Gillespie法の実装 西田直樹 阪大 Visualizing microbial communities “Variable Cell Morphology Approach for Individual-Based Modeling of Microbial Communities” (Tomas Storck, DOI: http://dx.</description></item><item><title>E-Cell Workshop 2014 Spring</title><link>http://blog.e-cell.org/posts/ecell-workshop-2014/</link><pubDate>Wed, 05 Feb 2014 00:00:00 +0000</pubDate><guid>http://blog.e-cell.org/posts/ecell-workshop-2014/</guid><description>E-Cell Workshop 2013 が開催されました。
+日時：2014年３月10日（月）
+場所：慶應義塾大学湘南藤沢キャンパス
+詳細はこちらをご覧ください。</description></item><item><title>The 2nd E-Cell Sprint</title><link>http://blog.e-cell.org/posts/the-2nd-ecell-sprint/</link><pubDate>Mon, 02 Sep 2013 00:00:00 +0000</pubDate><guid>http://blog.e-cell.org/posts/the-2nd-ecell-sprint/</guid><description>去る9月7日から11日、慶應義塾大学湘南藤沢キャンパスにて
+第2回E-Cell Hackathon改め、E-Cell Sprintを開催しました。
+E-Cell Sprintは主にE-Cellに関わる開発をhackathon形式で行うものです。
+biologyのopen source softwareにはこの手の合宿式開発を行う例があり、こ れをE-Cell projectでも行っています。
+昨年の主な参加者は理研高橋研の構成員、慶應SFC先端生命科学研究会の方々で したが、行く行くはSystems biology向けの開発者会議にE-Cell Sprintを 発展させたいと考えており、今年度は慶應だけでなく、北大、京大、東工大、 ICUといった大学の方々にもご参加頂き、大きな成果が得られました。
+E-Cell Sprintでは期間中の最初の数日で各人は開発テーマを決め最終日に成 果の発表を行います。
+(成果がコミットされたGitHub organizationは下記になります)
+https://github.com/ecell
+https://github.com/ecell3-models
+E-Cell Sprintは来年も行う予定です。
+参加にご興味のある方はktakahashi at riken.jpまでご連絡ください。</description></item><item><title>E-Cell Workshop 2012</title><link>http://blog.e-cell.org/posts/ecell-workshop-2012/</link><pubDate>Mon, 26 Nov 2012 06:00:00 +0000</pubDate><guid>http://blog.e-cell.org/posts/ecell-workshop-2012/</guid><description>2012年11月26日、慶應大学湘南藤沢キャンパスにてE-Cell Workshop 2012を開催しました。 詳細はこちらのリンクをご覧ください。</description></item><item><title>The 1st Ecell Hackathon</title><link>http://blog.e-cell.org/posts/the-1st-ecell-hackathon/</link><pubDate>Tue, 07 Aug 2012 00:00:00 +0000</pubDate><guid>http://blog.e-cell.org/posts/the-1st-ecell-hackathon/</guid><description>2012年8月3日から7日に慶應義塾大学湘南藤沢キャンパスにて
+E-Cell Hackathonを下記のように開催しました。
+日程 Arrival Day (Aug. 2) 8月3日 主催者 高橋恒一からの紹介
+自己紹介、テーマ決めのための議論など
+8月4-6日 開発
+8月7日 成果発表とまとめ
+参加者 Satya Arjunan (理研) Daisuke Hayashi (慶應大学) 岩本一成 (理研) 海津一成 (理研) Ayaka Koike (慶應大学) 小泉守義 (理研) Kazuki Oshita (慶應大学) Gembu Maryu (慶應大学) Yasuhiro Naito (慶應大学) Seiko Nakatsuka (慶應大学) 西田孝三 (理研) Taiko Nishino (慶應大学) Haruka Saito (慶應大学) 坂本裕記 (東工大) Hanae Shimo (慶應大学) Yuki Shindo (慶應大学) 高橋恒一 (理研) Satoshi Tamaki (慶應大学) Sayuri Todoroki (慶應大学) Takami Toki (慶應大学) 渡部匡己 (理研) Kazuto Yamada (慶應大学) Jun Yamakubo (慶應大学)</description></item></channel></rss>
